@@ -1,0 +1,7 @@
+CSS -  CashCading Style Sheet
+html webpage run on the browser.
+for design HTML Web pages we use CSS.
+With the help of CSS, we can control the colour of text and style of fonts, 
+and we can control the spacing between the paragraph and many more things.
+ CSS is easy to understand but provides strong control on the Html documents.
+ CSS is combined with HTML.
