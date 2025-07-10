@@ -5,3 +5,54 @@ With the help of CSS, we can control the colour of text and style of fonts,
 and we can control the spacing between the paragraph and many more things.
  CSS is easy to understand but provides strong control on the Html documents.
  CSS is combined with HTML.
+
+
+ Types of CSS
+There are three types of CSS:
+
+1. Inline CSS
+Inline CSS is used to style the elements of HTML documents.
+ It is used in HTML to style the attributes without using the selectors. 
+It is challenging to manage the inline function in websites compared to other types. 
+It is very helpful in Html in some situations.
+
+Example of inline CSS:
+<p style="color: orange; font-size: 25px;">Here is my first paragraph.</p>  
+lt;p>Here is my second paragraph.</p>  
+
+2. Internal CSS
+Internal CSS is used to design the style single page effectively. 
+It is more time-consuming because we can only work on one page or we need to style each web page.
+ In internal CSS, we style a single webpage uniquely.
+
+Example of internal CSS:
+
+ <style>  
+--- required styles--  
+</style>  
+
+3. External CSS
+External CSS is used to link all webpage with an external file.
+ CSS, which can be created in a text file. 
+It is more efficient for styling an extensive webpage. 
+It also increases the readability of the CSS files.
+
+Example of external CSS:
+<head>  
+  //if the CSS file is in another folder, then  
+  //the href must contain the path to the file  
+  <link rel="stylesheet" href="nameOfTheSheet.css">   
+</head>   
+
+ css file syntax
+
+ <html>
+ <head>
+ <style>
+    html font tag style 
+ </style>
+ </head>
+ <body>
+        html code
+ </body>
+ </html>
