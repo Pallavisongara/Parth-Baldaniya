@@ -27,7 +27,8 @@ It is more time-consuming because we can only work on one page or we need to sty
 
 Example of internal CSS:
 
- <style>  
+ <style>
+  
 --- required styles--  
 </style>  
 
